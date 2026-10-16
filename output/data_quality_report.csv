@@ -1,0 +1,9 @@
+column,missing_values,data_type
+TICKER,0,string
+YEAR,0,int64
+NPL (%),0,float64
+NIM (%),0,float64
+BOPO (%),0,float64
+CAR (%),0,float64
+ROA (%),0,float64
+Stock Return (%),0,float64
